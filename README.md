@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://twitter.com/YounesTasra"><img src="https://img.shields.io/badge/twitter-%40YounesTasra-blue.svg" alt="@YounesTasra" height="18"></a>
   <a href="https://www.linkedin.com/in/younes-tasra-95a1a4234/"><img src="https://img.shields.io/badge/linkedin-%40YounesTasra-blue.svg" alt="younes-tasra-95a1a4234" height="18"></a>
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" height="18"></a>
 </p>
 <br>
 
