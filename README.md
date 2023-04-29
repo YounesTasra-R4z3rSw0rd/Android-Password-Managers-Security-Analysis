@@ -43,7 +43,7 @@ The following tools and environment were used for the analysis:
 * [Frida](https://frida.re/docs/home/):  to perform dynamic analysis on the password managers
 
 ## Report
-The full report is available in the PDF file located in this repository. The report contains detailed information about each password manager, the methodology used for the analysis, the vulnerabilities identified, and recommendations for improving security.
+The [full report](https://raw.githubusercontent.com/YounesTasra-R4z3rSw0rd/Android-Password-Managers-Security-Analysis/main/Password%20Managers%20Security%20Analysis.pdf) is available in the PDF file located in this repository. The report contains detailed information about each password manager, the methodology used for the analysis, the vulnerabilities identified, and recommendations for improving security.
 
 ## Disclaimer
 The purpose of this analysis is to identify potential security issues with password managers on the Android platform. This analysis is not intended to be a comprehensive review of each password manager's security features, and the results should not be used as the sole basis for selecting a password manager. Users should always exercise caution when using any password manager and take additional security measures, such as enabling two-factor authentication, to protect their accounts.
