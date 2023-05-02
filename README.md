@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    🔍 Android Password Managers Security Analysis 🔍
+    🔎 Android Password Managers Security Analysis 🔍
   <br>
   <br>
 </h1>
